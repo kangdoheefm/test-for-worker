@@ -1,0 +1,106 @@
+{
+    "OVU_SPORTY": {
+        "name": "OVU_SPORTY",
+        "baseline": "don't know",
+        "type": "ckpt",
+        "inpainting": false,
+        "description": "model for test",
+        "version": 0.0,
+        "style": "sporty",
+        "nsfw": false,
+        "download_all": false,
+        "is_local": true,
+        "config": {
+            "files": [
+                {
+                    "path": "test.safetensors",
+                    "md5sum": "don't use",
+                    "sha256sum": "don't use"
+                },
+                {
+                    "path": "test.safetensors"
+                }
+            ],
+            "download": [
+                {
+                    "file_name": "don't use",
+                    "file_path": "",
+                    "file_url": "don't use"
+                }
+            ]
+        },
+        "available": false
+    },
+    "Disney Pixar Cartoon Type A": {
+        "name": "Disney Pixar Cartoon Type A",
+        "baseline": "don't know",
+        "type": "ckpt",
+        "inpainting": false,
+        "description": "model for test",
+        "version": 0.0,
+        "style": "sporty",
+        "nsfw": false,
+        "download_all": false,
+        "is_local": true,
+        "config": {
+            "files": [
+                {
+                    "path": "test.safetensors",
+                    "md5sum": "don't use",
+                    "sha256sum": "don't use"
+                },
+                {
+                    "path": "test.safetensors"
+                }
+            ],
+            "download": [
+                {
+                    "file_name": "don't use",
+                    "file_path": "",
+                    "file_url": "don't use"
+                }
+            ]
+        },
+        "available": false
+    },
+    "Arcane Diffusion test": {
+        "name": "Arcane Diffusion test",
+        "baseline": "stable diffusion 1",
+        "type": "ckpt",
+        "inpainting": false,
+        "description": "Based on the Arcane TV show",
+        "showcases": [
+            "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/showcase/arcane/01_bigdowg.jpg",
+            "https://raw.githubusercontent.com/Haidra-Org/AI-Horde-image-model-reference/main/showcase/arcane/02_bigdowg.jpg"
+        ],
+        "version": "3",
+        "style": "artistic",
+        "trigger": [
+            "arcane style"
+        ],
+        "homepage": "https://huggingface.co/nitrosocke/arcane-diffusion",
+        "nsfw": false,
+        "download_all": false,
+        "is_local": true,
+        "config": {
+            "files": [
+                {
+                    "path": "arcane_diffusion.ckpt",
+                    "md5sum": "218055cf8b7f49559de4a6c939dec9ed",
+                    "sha256sum": "7dd0e6760f5a6778bebbbdaedd96aa1038ca76c349194f0c1b5c28311e10a78b"
+                },
+                {
+                    "path": "v1-inference.yaml"
+                }
+            ],
+            "download": [
+                {
+                    "file_name": "arcane_diffusion.ckpt",
+                    "file_path": "",
+                    "file_url": "https://huggingface.co/nitrosocke/Arcane-Diffusion/resolve/main/arcane-diffusion-v3.ckpt"
+                }
+            ]
+        },
+        "available": false
+    }
+}
