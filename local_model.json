@@ -13,44 +13,12 @@
         "config": {
             "files": [
                 {
-                    "path": "test.safetensors",
+                    "path": "ovu_sporty.safetensors",
                     "md5sum": "don't use",
                     "sha256sum": "don't use"
                 },
                 {
-                    "path": "test.safetensors"
-                }
-            ],
-            "download": [
-                {
-                    "file_name": "don't use",
-                    "file_path": "",
-                    "file_url": "don't use"
-                }
-            ]
-        },
-        "available": false
-    },
-    "Disney Pixar Cartoon Type A": {
-        "name": "Disney Pixar Cartoon Type A",
-        "baseline": "don't know",
-        "type": "ckpt",
-        "inpainting": false,
-        "description": "model for test",
-        "version": 0.0,
-        "style": "sporty",
-        "nsfw": false,
-        "download_all": false,
-        "is_local": true,
-        "config": {
-            "files": [
-                {
-                    "path": "test.safetensors",
-                    "md5sum": "don't use",
-                    "sha256sum": "don't use"
-                },
-                {
-                    "path": "test.safetensors"
+                    "path": "ovu_sporty.safetensors"
                 }
             ],
             "download": [
